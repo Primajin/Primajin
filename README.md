@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 - 📚 I studied Design and Photography at the <img alt="mdh logo" src="https://www.mediadesign.de/themes/custom/frontend/dist/assets/favicon.svg" height="16" /> MediaDesign University of Applied Sciences
-- 🔭 I’m working as an Engineering Manager at <img alt="planet.com logo" src="https://planet.com/favicon.ico" height="16" /> [planet.com](planet.com)
+- 🔭 I’m working as an Engineering Manager
 - 👨🏻‍💻 I mostly code in <img alt="JavaScript logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="16" />  JavaScript these days
 <!--
 **Primajin/Primajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

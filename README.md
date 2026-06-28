@@ -2,7 +2,7 @@
 
 - 📚 I studied Design and Photography at the <img alt="mdh logo" src="https://www.mediadesign.de/themes/custom/frontend/dist/assets/favicon.svg" height="16" /> MediaDesign University of Applied Sciences
 - 🔭 I’m working as a Senior Manager Frontend Development at <img alt="ionos logo" src="https://www.ionos.de/favicon-16x16.png" height="16" /> IONOS
-- 👨🏻‍💻 I mostly code in <img alt="JavaScript logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" height="16" />  JavaScript these days
+- 👨🏻‍💻 I mostly code in <img alt="JavaScript logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" height="16" />  JavaScript these days
 <!--
 **Primajin/Primajin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
